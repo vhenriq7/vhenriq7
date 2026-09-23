@@ -1,41 +1,41 @@
-# Victor Henrique
+<h1 align="center">Victor Henrique</h1>
 
-### Back-end Developer in training
+<p align="center">
+  <strong>Estudante de ADS • Back-end • Python & SQL</strong>
+</p>
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**. Atualmente estou aprofundando meus conhecimentos em **Python** e **SQL** e construindo projetos para aplicar programação, APIs e bancos de dados na prática.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vhenriq7/">
+    <img src="https://img.shields.io/badge/LinkedIn-vhenriq7-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:7victorrocha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7victorrocha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vhenriq7-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vhenriq7/)
-[![Email](https://img.shields.io/badge/Email-7victorrocha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:7victorrocha@gmail.com)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation">
+</p>
 
-## Foco atual
+## Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
 
-- Desenvolvimento Back-end com Python
-- Banco de dados e SQL
-- Construção de projetos práticos
+- Atualmente aprofundando meus conhecimentos em **Python** e **SQL**
+- Construindo projetos para aplicar programação, APIs e bancos de dados na prática
+- Inglês básico, em constante estudo
 - Buscando minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 
-## Conhecimentos
+## Tecnologias e ferramentas
 
-`Python` · `SQL` · `Git` · `HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Linux` · `Windows`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,git,linux,windows&perline=8" alt="Tecnologias e ferramentas">
+</p>
 
-## Projeto
-
-### PoliEsporte
-
-Projeto acadêmico desenvolvido durante o curso Técnico em Informática para Web. Site de uma loja de artigos esportivos, construído com **HTML e CSS**, com páginas voltadas para diferentes modalidades esportivas.
-
-[Ver repositório](https://github.com/vhenriq7/ProjetoPoliEsporte)
-
-## Atualmente estudando
-
-- Python
-- SQL
-- Inglês
+**Foco atual:** Python • SQL
 
 ---
 
-Aberto a oportunidades de estágio e a novos desafios em desenvolvimento de software.
+<p align="center">
+  <i>Construindo, aprendendo e evoluindo um projeto de cada vez.</i>
+</p>
