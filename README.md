@@ -1,6 +1,6 @@
 <img align="right" width="360" alt="Terminal animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=8B949E&background=0D111700&vCenter=true&multiline=true&repeat=true&width=360&height=115&lines=%24+python+main.py;Building+back-end+projects...;Python+%7C+SQL+%7C+Git">
 
-# Victor Henrique
+# Victor Oliveira
 
 **Estudante de ADS • Back-end • Python & SQL**
 
