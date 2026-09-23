@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Terra-01/Terra-01/main/code.gif">
+<img align="right" width="360" alt="Terminal animation" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=8B949E&background=0D111700&vCenter=true&multiline=true&repeat=true&width=360&height=115&lines=%24+python+main.py;Building+back-end+projects...;Python+%7C+SQL+%7C+Git">
 
 # Victor Henrique
 
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Email-7victorrocha%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+<br clear="right"/>
+
 ## Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
@@ -19,8 +21,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 - Construindo projetos para aplicar programação, APIs e bancos de dados na prática
 - Inglês básico, em constante estudo
 - Buscando minha primeira oportunidade de **estágio em Desenvolvimento de Software**
-
-<br clear="right"/>
 
 ## Tecnologias e ferramentas
 
