@@ -6,7 +6,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 - Construindo projetos para aplicar programação, FastAPI e bancos de dados na prática
 - Estudando persistência com **SQLAlchemy**, **Alembic** e driver PostgreSQL
 - Inglês básico, em constante estudo
-- Buscando minha primeira oportunidade de **estágio em Desenvolvimento de Software**
 
 ## Tecnologias e ferramentas
 
