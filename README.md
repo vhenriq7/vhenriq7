@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="Cyberpunk city perfect loop">
+
 ## Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-end**.
