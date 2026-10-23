@@ -10,6 +10,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvim
 ## Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,html,css,js,bootstrap,git,github,linux,windows&perline=11" alt="Tecnologias e ferramentas">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,postgres,html,css,js,bootstrap,git,github,vscode,linux,windows&perline=11" alt="Tecnologias e ferramentas">
 </p>
 
